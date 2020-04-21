@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xmy/wanderbot_ws/src/xfei_asr/include/msp_cmn.h
+msp_types.h
+/home/xmy/wanderbot_ws/src/xfei_asr/include/msp_types.h
+
+/home/xmy/wanderbot_ws/src/xfei_asr/include/msp_errors.h
+
+/home/xmy/wanderbot_ws/src/xfei_asr/include/msp_types.h
+
+/home/xmy/wanderbot_ws/src/xfei_asr/include/qtts.h
+msp_types.h
+/home/xmy/wanderbot_ws/src/xfei_asr/include/msp_types.h
+
+/home/xmy/wanderbot_ws/src/xfei_asr/src/tts_sample.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+qtts.h
+/home/xmy/wanderbot_ws/src/xfei_asr/src/qtts.h
+msp_cmn.h
+/home/xmy/wanderbot_ws/src/xfei_asr/src/msp_cmn.h
+msp_errors.h
+/home/xmy/wanderbot_ws/src/xfei_asr/src/msp_errors.h
+
